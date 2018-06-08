@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528360676 source:c:\users\dancy\documents\codeblocks\chainepoints\main.c
+	"list.h"
+	"list.c"
+
+1528360412 c:\users\dancy\documents\codeblocks\chainepoints\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528360956 c:\users\dancy\documents\codeblocks\chainepoints\list.c
+	"list.h"
+
